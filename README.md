@@ -33,6 +33,7 @@ This GitHub profile is an **evidence hub**: selected case studies, frameworks, P
 | [Operational Structuring Case Study](./06-operational-structuring-case-study) | Operating model design, process structuring, KPIs, reporting, knowledge management and performance management |
 | [Quality & Governance Framework](./02-quality-governance-framework) | Quality systems, governance routines, KPI frameworks, corrective actions and AI/human oversight |
 | [Project Management Toolkit](./01-project-management-toolkit) | Reusable PMO tools, project governance templates, stakeholder and risk management |
+| [People Development & Manager Enablement](./10-people-development-manager-enablement) | Capability assessment, coaching, manager enablement, learning, team development and performance development |
 
 ---
 
@@ -51,6 +52,9 @@ This GitHub profile is an **evidence hub**: selected case studies, frameworks, P
 - [03 — Operational Performance](./03-operational-performance)
 - [04 — Lean Six Sigma Transformation](./04-lean-six-sigma-transformation)
 - [05 — Recruitment Process Improvement](./05-recruitment-process-improvement)
+
+### People Development & Manager Enablement
+- [10 — People Development & Manager Enablement](./10-people-development-manager-enablement)
 
 ### Transformation & AI Governance
 - [09 — AI Transformation & Governance](./09-ai-transformation-governance)
