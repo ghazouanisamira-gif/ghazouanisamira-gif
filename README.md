@@ -5,6 +5,8 @@
 
 I structure, improve and govern operational and transformation initiatives through **project management, quality, Lean Six Sigma, risk management, stakeholder coordination and data-driven decision-making**.
 
+**LinkedIn:** https://www.linkedin.com/in/samira-ghazouani-76392472/
+
 This GitHub profile is an **evidence hub**: selected case studies, frameworks, PMO tools, methodologies and reusable templates developed from professional and applied experience.
 
 ---
@@ -23,19 +25,24 @@ This GitHub profile is an **evidence hub**: selected case studies, frameworks, P
 
 ---
 
+## Résumé professionnel
+
+Professionnelle du secteur des services et du BPO/centre de contact, avec plus de 15 ans d’expérience en qualité, management et amélioration continue dans des environnements multi-activités, multi-clients et multi-pays. Mon parcours combine **qualité, PMO, gouvernance, gestion des risques, performance opérationnelle, transformation et développement des compétences**, avec une expérience de coordination transverse et multi-acteurs.
+
 ## Featured Evidence
 
-| Evidence | What it demonstrates |
+| Case | Evidence visible |
 |---|---|
-| [EMEA Quality Governance Transformation](./07-emea-quality-governance-transformation) | Multi-country governance, stakeholder coordination, quality framework, KPIs and continuous improvement |
-| [AI Transformation & Governance](./09-ai-transformation-governance) | AI governance, knowledge management, phased deployment, quality, CSAT, analytics and change management |
-| [Lean Six Sigma Transformation](./04-lean-six-sigma-transformation) | DMAIC, process analysis, VSM, Pareto, statistical analysis and measurable improvement |
-| [Operational Structuring Case Study](./06-operational-structuring-case-study) | Operating model design, process structuring, KPIs, reporting, knowledge management and performance management |
-| [Quality & Governance Framework](./02-quality-governance-framework) | Quality systems, governance routines, KPI frameworks, corrective actions and AI/human oversight |
-| [Project Management Toolkit](./01-project-management-toolkit) | Reusable PMO tools, project governance templates, stakeholder and risk management |
-| [People Development & Manager Enablement](./10-people-development-manager-enablement) | Capability assessment, coaching, manager enablement, learning, team development and performance development |
-
----
+| [01 — Project Management Toolkit](https://github.com/ghazouanisamira-gif/01-project-management-toolkit) | PMO tools, governance, planning, stakeholders and risk management |
+| [02 — Quality & Governance Framework](https://github.com/ghazouanisamira-gif/02-quality-governance-framework) | Quality governance cycle, KPI control, corrective actions and AI/human oversight |
+| [03 — Operational Performance](https://github.com/ghazouanisamira-gif/03-operational-performance) | KPI architecture, dashboards, reporting and performance-management routines |
+| [04 — Lean Six Sigma Transformation](https://github.com/ghazouanisamira-gif/04-lean-six-sigma-transformation) | Early attrition **28% → 10%** in an anonymized recruitment transformation |
+| [05 — Recruitment Process Improvement](https://github.com/ghazouanisamira-gif/05-recruitment-process-improvement) | End-to-end recruitment operating model, workforce alignment and capability development |
+| [06 — Operational Structuring](https://github.com/ghazouanisamira-gif/06-operational-structuring-case-study) | Operating model built from a fragmented starting point, with a **~42% relative conversion improvement** |
+| [07 — EMEA Quality Governance](https://github.com/ghazouanisamira-gif/07-emea-quality-governance-transformation) | Quality Score **40% → 85%**, CSAT **+15 pts**, non-conformities **−20%** |
+| [08 — ISO 9001 QMS Framework](https://github.com/ghazouanisamira-gif/08-iso-9001-qms-assessment-framework) | Academic QMS assessment and implementation roadmap aligned with ISO 9001:2015 |
+| [09 — AI Transformation & Governance](https://github.com/ghazouanisamira-gif/09-ai-transformation-governance) | AI governance, knowledge management, phased deployment, quality and human oversight |
+| [10 — People Development](https://github.com/ghazouanisamira-gif/10-people-development-manager-enablement) | Capability assessment, coaching, manager enablement and performance development |
 
 ## Portfolio Map
 
@@ -77,7 +84,7 @@ This GitHub profile is an **evidence hub**: selected case studies, frameworks, P
 
 Each case is structured around:
 
-**Challenge → Objectives → Scope → Stakeholders → My Role → Methodology → Deliverables → Data & Analysis → Risks → Solution → Results → Lessons Learned → Transferable Skills**
+**Context & Objective → Scope & My Role → Approach → Evidence / Results → Limits → Lessons Learned**
 
 Where confidential information is involved, evidence is **anonymized** and sensitive operational data is excluded.
 
