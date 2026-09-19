@@ -47,24 +47,24 @@ Professionnelle du secteur des services et du BPO/centre de contact, avec plus d
 ## Portfolio Map
 
 ### Project Management & PMO
-- [01 — Project Management Toolkit](./01-project-management-toolkit)
-- [06 — Operational Structuring Case Study](./06-operational-structuring-case-study)
+- [01 — Project Management Toolkit](https://github.com/ghazouanisamira-gif/01-project-management-toolkit)
+- [06 — Operational Structuring Case Study](https://github.com/ghazouanisamira-gif/06-operational-structuring-case-study)
 
 ### Quality, Governance & QMS
-- [02 — Quality & Governance Framework](./02-quality-governance-framework)
-- [07 — EMEA Quality Governance Transformation](./07-emea-quality-governance-transformation)
-- [08 — ISO 9001 QMS Assessment Framework](./08-iso-9001-qms-assessment-framework)
+- [02 — Quality & Governance Framework](https://github.com/ghazouanisamira-gif/02-quality-governance-framework)
+- [07 — EMEA Quality Governance Transformation](https://github.com/ghazouanisamira-gif/07-emea-quality-governance-transformation)
+- [08 — ISO 9001 QMS Assessment Framework](https://github.com/ghazouanisamira-gif/08-iso-9001-qms-assessment-framework)
 
 ### Operational Excellence & Process Improvement
-- [03 — Operational Performance](./03-operational-performance)
-- [04 — Lean Six Sigma Transformation](./04-lean-six-sigma-transformation)
-- [05 — Recruitment Process Improvement](./05-recruitment-process-improvement)
+- [03 — Operational Performance](https://github.com/ghazouanisamira-gif/03-operational-performance)
+- [04 — Lean Six Sigma Transformation](https://github.com/ghazouanisamira-gif/04-lean-six-sigma-transformation)
+- [05 — Recruitment Process Improvement](https://github.com/ghazouanisamira-gif/05-recruitment-process-improvement)
 
 ### People Development & Manager Enablement
-- [10 — People Development & Manager Enablement](./10-people-development-manager-enablement)
+- [10 — People Development & Manager Enablement](https://github.com/ghazouanisamira-gif/10-people-development-manager-enablement)
 
 ### Transformation & AI Governance
-- [09 — AI Transformation & Governance](./09-ai-transformation-governance)
+- [09 — AI Transformation & Governance](https://github.com/ghazouanisamira-gif/09-ai-transformation-governance)
 
 ---
 
