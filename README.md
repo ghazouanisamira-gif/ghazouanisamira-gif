@@ -43,17 +43,20 @@ Professionnelle du secteur des services et du BPO/centre de contact, avec plus d
 | [08 — ISO 9001 QMS Framework](https://github.com/ghazouanisamira-gif/08-iso-9001-qms-assessment-framework) | Academic QMS assessment and implementation roadmap aligned with ISO 9001:2015 |
 | [09 — AI Transformation & Governance](https://github.com/ghazouanisamira-gif/09-ai-transformation-governance) | AI governance, knowledge management, phased deployment, quality and human oversight |
 | [10 — People Development](https://github.com/ghazouanisamira-gif/10-people-development-manager-enablement) | Capability assessment, coaching, manager enablement and performance development |
+| [12 — AI Quality Control — Lead Generation](https://github.com/ghazouanisamira-gif/12-ai-quality-control-leadgen) | BRD → AI experimentation → validation → automation → CRM integration; **≈85% assessment alignment, ≈60% manual audit-effort reduction** |
 
 ## Portfolio Map
 
 ### Project Management & PMO
 - [01 — Project Management Toolkit](https://github.com/ghazouanisamira-gif/01-project-management-toolkit)
 - [06 — Operational Structuring Case Study](https://github.com/ghazouanisamira-gif/06-operational-structuring-case-study)
+- [12 — AI Quality Control — Lead Generation](https://github.com/ghazouanisamira-gif/12-ai-quality-control-leadgen)
 
 ### Quality, Governance & QMS
 - [02 — Quality & Governance Framework](https://github.com/ghazouanisamira-gif/02-quality-governance-framework)
 - [07 — EMEA Quality Governance Transformation](https://github.com/ghazouanisamira-gif/07-emea-quality-governance-transformation)
 - [08 — ISO 9001 QMS Assessment Framework](https://github.com/ghazouanisamira-gif/08-iso-9001-qms-assessment-framework)
+- [12 — AI Quality Control — Lead Generation](https://github.com/ghazouanisamira-gif/12-ai-quality-control-leadgen)
 
 ### Operational Excellence & Process Improvement
 - [03 — Operational Performance](https://github.com/ghazouanisamira-gif/03-operational-performance)
@@ -65,6 +68,7 @@ Professionnelle du secteur des services et du BPO/centre de contact, avec plus d
 
 ### Transformation & AI Governance
 - [09 — AI Transformation & Governance](https://github.com/ghazouanisamira-gif/09-ai-transformation-governance)
+- [12 — AI Quality Control — Lead Generation](https://github.com/ghazouanisamira-gif/12-ai-quality-control-leadgen)
 
 ---
 
