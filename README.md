@@ -22,6 +22,7 @@ This GitHub profile is an **evidence hub**: selected case studies, frameworks, P
 - Data analysis, KPI management and root-cause analysis
 - Change management and people development
 - AI-enabled operational transformation and governance
+- Service launch (GoLive), ramp-up and SLA governance
 
 ---
 
@@ -72,6 +73,18 @@ Professionnelle du secteur des services et du BPO/centre de contact, avec plus d
 
 ---
 
+## Service Launch & Ramp-up (GoLive)
+
+Experience in a multi-client BPO / contact-center environment, anonymized:
+
+- Led new service launches: preparation, GoLive, ramp-up and stabilisation.
+- Defined SLAs at each launch, formalised in the contract with bonus/malus on selected KPIs, and followed them through weeklies and QBRs.
+- Scaled staffing progressively in line with production ramp-up, for a department and for an EMEA e-commerce mandate.
+- Managed client billing of quality and training teams, by language and by volume of hours delivered.
+- Built SOPs, checklists and corrective action plans through to stabilisation.
+
+---
+
 ## Methodologies
 
 **Project Management:** Project Charter, planning, RACI, stakeholder management, RAID, risk management, governance, status reporting
@@ -79,6 +92,8 @@ Professionnelle du secteur des services et du BPO/centre de contact, avec plus d
 **Quality & Operational Excellence:** KPI management, RCA, CAPA-style action tracking, PDCA, process mapping, continuous improvement
 
 **Lean Six Sigma:** DMAIC, SIPOC, Value Stream Mapping, Pareto analysis, 5 Whys, Fishbone, statistical analysis
+
+**Service Launch & Operations:** GoLive planning, ramp-up and staffing alignment, SLA definition and follow-up, SOPs and checklists, weeklies and QBRs, stabilisation
 
 **Transformation:** Change management, cross-functional coordination, multi-provider governance, knowledge management, AI adoption and human oversight
 
