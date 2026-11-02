@@ -82,6 +82,7 @@ Experience in a multi-client BPO / contact-center environment, anonymized:
 - Scaled staffing progressively in line with production ramp-up, for a department and for an EMEA e-commerce mandate.
 - Managed client billing of quality and training teams, by language and by volume of hours delivered.
 - Built SOPs, checklists and corrective action plans through to stabilisation.
+- Led a quality and training team of about 15 officers depending on forecast, including 12 plus a manager dedicated to an EMEA mandate, cross-trained on all projects and reassigned to reinforce according to forecast.
 
 ---
 
